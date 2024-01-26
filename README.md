@@ -1,3 +1,7 @@
+## MUY IMPORTANTE: Cambiarn dentro de archivo src/api/clientDB.tsx
+por la ip de la pc donde se correc la aplicacion backend en golang
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
