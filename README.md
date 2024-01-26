@@ -1,4 +1,4 @@
-## MUY IMPORTANTE: Cambiardentro de archivo src/api/clientDB.tsx
+## MUY IMPORTANTE: Cambiar dentro de archivo src/api/clientDB.tsx
 Por la ip de la pc donde se corre la aplicacion backend en golang
 
 
